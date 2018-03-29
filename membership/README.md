@@ -52,3 +52,8 @@
   - **Strengths:** Architectural Design / Software Development
   - **Bio:** 
   - **Links**
+- Benson Tran (@Flatlines)
+  - **Strengths:** Programming / Discord Community Management / Economics
+  - **Bio:** 
+  - **Links**
+    - https://www.linkedin.com/in/benson-tran-51a708150/
