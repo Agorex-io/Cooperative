@@ -1,0 +1,46 @@
+# List Of Future Members
+
+- Jonathon Dunford
+  - **Strengths:** Business Development / Programming / Marketing / Blockchain Development
+  - **Bio:**
+  - **Links**
+    - https://www.linkedin.com/in/jonathondunford/
+    - https://github.com/jonathonDunford
+- Joona Virtanen
+  - **Strengths:** Community Management / Support
+  - **Bio:**
+  - **Links**
+- Evan Bonsignori
+  - **Strengths:** Programming
+  - **Bio:**
+  - **Links**
+    - https://github.com/ebonsignori
+- Marcus Mönnig
+  - **Strengths:** Dev Ops / Solidity & Blockchain Development / Backend Development
+  - **Bio:**
+  - **Links**
+- Brandon Smith
+  - **Strengths:** Decentralization Maximalist, Nuclear Engineer, Startup Experience, RChain Coop Community Organizer
+  - **Bio:**
+  - **Links**
+- Scott Willeke
+  - **Strengths:** Business & Product Strategy / Programming
+  - **Bio:**
+  - **Links**
+    - https://www.linkedin.com/in/scottwilleke/
+- Edenilson Silva
+  - **Strengths:** Programming
+  - **Bio:**
+  - **Links**
+    - https://www.linkedin.com/in/eedsilva/
+- Simon Kruse
+  - **Strengths:** Programming / Community Management
+  - **Bio:**
+  - **Links**
+    - https://www.linkedin.com/in/simon-kruse-959287154
+- Mike Boremi
+  - **Strengths:** Programming / Security
+  - **Bio:**
+  - **Links**
+	- https://www.linkedin.com/in/mikeboremi/
+	- https://github.com/mikeyb
