@@ -1,29 +1,29 @@
-# List Of Future Members
+# List Of Possible Future Members
 
-- Jonathon Dunford
+- Jonathon Dunford (@BigBrother)
   - **Strengths:** Business Development / Programming / Marketing / Blockchain Development
   - **Bio:**
   - **Links**
     - https://www.linkedin.com/in/jonathondunford/
     - https://github.com/jonathonDunford
-- Joona Virtanen
+- Joona Virtanen (@Riven)
   - **Strengths:** Community Management / Support
   - **Bio:**
   - **Links**
-- Evan Bonsignori
+- Evan Bonsignori (@Evan)
   - **Strengths:** Programming
-  - **Bio:**
+  - **Bio:** @evan
   - **Links**
     - https://github.com/ebonsignori
-- Marcus Mönnig
+- Marcus Mönnig (@mmhh)
   - **Strengths:** Dev Ops / Solidity & Blockchain Development / Backend Development
   - **Bio:**
   - **Links**
-- Brandon Smith
+- Brandon Smith (@thoth)
   - **Strengths:** Decentralization Maximalist, Nuclear Engineer, Startup Experience, RChain Coop Community Organizer
   - **Bio:**
   - **Links**
-- Scott Willeke
+- Scott Willeke (@activescott)
   - **Strengths:** Business & Product Strategy / Programming
   - **Bio:**
   - **Links**
@@ -33,14 +33,22 @@
   - **Bio:**
   - **Links**
     - https://www.linkedin.com/in/eedsilva/
-- Simon Kruse
+- Simon Kruse (@CryptoSmileee)
   - **Strengths:** Programming / Community Management
   - **Bio:**
   - **Links**
     - https://www.linkedin.com/in/simon-kruse-959287154
-- Mike Boremi
+- Mike Boremi (@MikO)
   - **Strengths:** Programming / Security
   - **Bio:**
   - **Links**
 	- https://www.linkedin.com/in/mikeboremi/
 	- https://github.com/mikeyb
+- Phillip O. (@kryptoniq)
+  - **Strengths:** Token Listing Submissions
+  - **Bio:** 19, Website developer, knows some PHP/MySQL, HTML, CSS and Solidity. Has startup experience and founder of SporChain.
+  - **Links**
+- Michael Razoumovitch (@mira)
+  - **Strengths:** Architectural Design / Software Development
+  - **Bio:** 
+  - **Links**
