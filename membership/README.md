@@ -17,7 +17,7 @@
     - https://github.com/ebonsignori
 - Marcus Mönnig (@mmhh)
   - **Strengths:** Dev Ops / Solidity & Blockchain Development / Backend Development
-  - **Bio:** BCS, been a programmer for 10 years and an Oracle OCM DBA for another 10 years. Just quit my job to work on blockchain projects.
+  - **Bio:** BCS - Been a programmer for 10 years and an Oracle OCM DBA for another 10 years. Just quit my job to work on blockchain projects. Interested in Solidity, blockchain and backend development, Python, Docker, Icinga, DevOps tooling
   - **Links** TBD
 - Brandon Smith (@thoth)
   - **Strengths:** Decentralization Maximalist, Nuclear Engineer, Startup Experience, RChain Coop Community Organizer
