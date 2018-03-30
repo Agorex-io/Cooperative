@@ -44,7 +44,7 @@
   - **Links**
 	- https://www.linkedin.com/in/mikeboremi/
 	- https://github.com/mikeyb
-- Phillip O. (@kryptoniq)
+- Phillip O. (@Kryptoniq)
   - **Strengths:** Token Listing Submissions
   - **Bio:** 19, Website developer, knows some PHP/MySQL, HTML, CSS and Solidity. Has startup experience and founder of SporChain.
   - **Links**
@@ -57,3 +57,7 @@
   - **Bio:** 
   - **Links**
     - https://www.linkedin.com/in/benson-tran-51a708150/
+- Rohat Sahin (@rowmagnon)
+  - **Strengths:** Community Management / Development
+  - **Bio:** 
+  - **Links**
