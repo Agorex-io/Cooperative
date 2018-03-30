@@ -1,7 +1,13 @@
 # Agorex - Cooperative Decentralized Exchange
 Our official mission statement is currently pending. 
 
-This statment, along with the goals, [future](##Road-map), and [members](##Members) of Agorex-io are to be determined by the Agorex-io cooperative.  
+This statment, along with the goals, [future](#road-map), and [members](#members) of Agorex-io are to be determined by the Agorex-io cooperative.  
+
+- [Name](#name)
+- [Membership](#membership)
+- [Road-map](#road-map)
+- [Members](#members)
+- [Social Links](#social-links)
 
 ## Name
 Agorex, the Cooperative Decentralized Exchange!
@@ -107,3 +113,6 @@ Our official social media and distribution channels have also been set up!
 - Discord: https://discord.gg/aTsgdk8
 - Telegram Announcements: https://t.me/agorexio
 - Telegram Chat: https://t.me/joinchat/Hj_53RBtVQx-X_Lx4bK-6w
+
+
+It may be a little empty in some of the channels above, but don't forget, these are hot off the press! Updates and posts on the platforms will come soon. Thanks for the support everyone!
