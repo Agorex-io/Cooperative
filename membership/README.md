@@ -61,3 +61,7 @@
   - **Strengths:** Community Management / Development
   - **Bio:** 
   - **Links**
+- Serina Piencak (@SinGoat)
+  - **Strengths:** Journalism / Writing & Editing / Social Media Management
+  - **Bio:** 
+  - **Links**
