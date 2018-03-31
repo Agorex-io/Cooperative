@@ -59,7 +59,7 @@
     - https://www.linkedin.com/in/benson-tran-51a708150/
 - Rohat Sahin (@rowmagnon)
   - **Strengths:** Community Management / Development
-  - **Bio:** 
+  - **Bio:** Webdev experience and project management
   - **Links**
 - Serina Piencak (@SinGoat)
   - **Strengths:** Journalism / Writing & Editing / Social Media Management
