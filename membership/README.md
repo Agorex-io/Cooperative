@@ -65,3 +65,26 @@
   - **Strengths:** Journalism / Writing & Editing / Social Media Management
   - **Bio:** 
   - **Links**
+- Kirby Ong (@kirbyong)
+  - **Strengths:** Writing / Community Management / Social Media Management
+  - **Bio:** 
+  - **Links**
+- Adam Marsden (@Adam)
+  - **Strengths:** CSS Architecture / UI & UX Design
+  - **Bio:** 
+  - **Links**
+- Shachindra (@shachindra)
+  - **Strengths:** Backend Development / Blockchain Development
+  - **Bio:** 
+  - **Links**
+    - https://LinkedIn.com/in/Shachindra92
+- Rally Arceno (@Rally)
+  - **Strengths:** Programming / Software Testing
+  - **Bio:** 
+  - **Links**
+    - https://www.linkedin.com/in/rally-arceno-8ba83a6
+- Derek Clauson (@Nidusan Glast)
+  - **Strengths:** Writing / Research Assessment / Marketing 
+  - **Bio:** 
+  - **Links**
+    - https://www.linkedin.com/in/derek-c-567174153/
