@@ -88,3 +88,23 @@
   - **Bio:** 
   - **Links**
     - https://www.linkedin.com/in/derek-c-567174153/
+- Francois Devillez (@Splinter)
+  - **Strengths:** Negotiations / Business & Legal Expertise / Networking
+  - **Bio:** 
+  - **Links**
+    - https://www.linkedin.com/in/francoisdevillez/
+- Vladmir Agaev (@Vlad)
+  - **Strengths:** Programming / Blockchain Development
+  - **Bio:** Known as Vlad Wulf on YouTube
+  - **Links**
+    - https://www.linkedin.com/in/vladimir-a-16334213b/
+- Andreas Achleithner (@Andreas BTC)
+  - **Strengths:** Engineering Background / Business / Marketing / Community Management
+  - **Bio:** Known as BTCBusinessconsult on YouTube
+  - **Links**
+    - https://www.linkedin.com/in/andreas-achleithner/
+- Imran Khawaja (@imrank1)
+  - **Strengths:** Full Stack Development / Machine Learning / Blockchain Development
+  - **Bio:** 
+  - **Links**
+    - https://www.linkedin.com/in/imrank1/
