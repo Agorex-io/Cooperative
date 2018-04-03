@@ -34,8 +34,8 @@
   - **Links**
     - https://www.linkedin.com/in/eedsilva/
 - Simon Kruse (@CryptoSmileee)
-  - **Strengths:** Programming / Community Management
-  - **Bio:**
+  - **Strengths:** Programming / Community Management / Social Media Management
+  - **Bio:** Community Manager at Bounty0x, Software Developer with a focus on backend and bot programming.  Know Golang, NodeJs, Python and web development techniques like PHP, Angular, Html + CSS
   - **Links**
     - https://www.linkedin.com/in/simon-kruse-959287154
 - Mike Boremi (@MikO)
