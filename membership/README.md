@@ -39,8 +39,8 @@
   - **Links**
     - https://www.linkedin.com/in/simon-kruse-959287154
 - Mike Boremi (@MikO)
-  - **Strengths:** Programming / Security
-  - **Bio:**
+  - **Strengths:** Programming / Security / Systems Engineering / Wallets
+  - **Bio:** 39yr old technology veteran with a background in Linux systems administration/engineering.  Fell in love with Bitcoin, became a programmer to interact with DLT.  Technical advisor of Ethereum Classic. Focus on security, wallets, utilities, backend development.  Business owner, miner, trader (forex/crypto).  When not being a total nerd you can find me in the forest camping or in the garden.
   - **Links**
 	- https://www.linkedin.com/in/mikeboremi/
 	- https://github.com/mikeyb
@@ -50,11 +50,11 @@
   - **Links**
 - Michael Razoumovitch (@mira)
   - **Strengths:** Architectural Design / Software Development
-  - **Bio:** 
+  - **Bio:**
   - **Links**
 - Benson Tran (@Flatlines)
   - **Strengths:** Programming / Discord Community Management / Economics
-  - **Bio:** 
+  - **Bio:**
   - **Links**
     - https://www.linkedin.com/in/benson-tran-51a708150/
 - Rohat Sahin (@rowmagnon)
@@ -63,34 +63,34 @@
   - **Links**
 - Serina Piencak (@SinGoat)
   - **Strengths:** Journalism / Writing & Editing / Social Media Management
-  - **Bio:** 
+  - **Bio:** 20yr old journalism student.  Content writing and editing. Forced into the crypto world by a goat, hodl'ing for my future.
   - **Links**
 - Kirby Ong (@kirbyong)
   - **Strengths:** Writing / Community Management / Social Media Management
-  - **Bio:** 
+  - **Bio:**
   - **Links**
 - Adam Marsden (@Adam)
   - **Strengths:** CSS Architecture / UI & UX Design
-  - **Bio:** 
+  - **Bio:**
   - **Links**
 - Shachindra (@shachindra)
   - **Strengths:** Backend Development / Blockchain Development
-  - **Bio:** 
+  - **Bio:**
   - **Links**
     - https://LinkedIn.com/in/Shachindra92
 - Rally Arceno (@Rally)
   - **Strengths:** Programming / Software Testing
-  - **Bio:** 
+  - **Bio:**
   - **Links**
     - https://www.linkedin.com/in/rally-arceno-8ba83a6
 - Derek Clauson (@Nidusan Glast)
-  - **Strengths:** Writing / Research Assessment / Marketing 
-  - **Bio:** 
+  - **Strengths:** Writing / Research Assessment / Marketing
+  - **Bio:**
   - **Links**
     - https://www.linkedin.com/in/derek-c-567174153/
 - Francois Devillez (@Splinter)
   - **Strengths:** Negotiations / Business & Legal Expertise / Networking
-  - **Bio:** 
+  - **Bio:**
   - **Links**
     - https://www.linkedin.com/in/francoisdevillez/
 - Vladmir Agaev (@Vlad)
@@ -105,6 +105,6 @@
     - https://www.linkedin.com/in/andreas-achleithner/
 - Imran Khawaja (@imrank1)
   - **Strengths:** Full Stack Development / Machine Learning / Blockchain Development
-  - **Bio:** 
+  - **Bio:**
   - **Links**
     - https://www.linkedin.com/in/imrank1/
