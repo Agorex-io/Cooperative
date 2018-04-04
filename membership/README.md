@@ -11,8 +11,8 @@
   - **Bio:**
   - **Links**
 - Evan Bonsignori (@Evan)
-  - **Strengths:** Programming
-  - **Bio:** @evan
+  - **Strengths:** Web Development / Python Backend / Web3 / Solidity / Machine Learning
+  - **Bio:** Contributor to open source projects and seeker of new technologies. 
   - **Links**
     - https://github.com/ebonsignori
 - Marcus Mönnig (@mmhh)
