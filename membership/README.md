@@ -73,7 +73,7 @@
   - **Strengths:** CSS Architecture / UI & UX Design
   - **Bio:** 
   - **Links**
-- Shachindra (@shachindra)
+- Shachindra Kumar (@shachindra)
   - **Strengths:** Backend Development / Blockchain Development
   - **Bio:** 
   - **Links**
@@ -108,3 +108,12 @@
   - **Bio:** 
   - **Links**
     - https://www.linkedin.com/in/imrank1/
+- Ebru Anik (@ebru)
+  - **Strengths:** Law Graduate
+  - **Bio:** 
+  - **Links**
+    - http://linkedin.com/in/ebru-anik-66769715b
+- James Gold (@James8)
+  - **Strengths:** Programming / Blockchain Development / Ohni CEO
+  - **Bio:** 
+  - **Links**
