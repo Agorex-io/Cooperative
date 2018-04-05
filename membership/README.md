@@ -117,3 +117,8 @@
   - **Strengths:** Programming / Blockchain Development / Ohni CEO
   - **Bio:** 
   - **Links**
+- Tim Bukher (@BukherT)
+  - **Strengths:** Multi-National Securities Regulation / Regulatory Advice / Legal Counsel
+  - **Bio:** My strengths are in multi-national securities regulation, I have a fairly high profile in the space both on business and media ends. I can provide business and regulatory strategy advice, I have relationships with various firms that specialize on needed regulatory areas internationally, etc... I've been doing corporate governance for multinational public organizations for the past 10 years. Been a BTC hodler 9+ years. Aside from being on the ground in securities regulatory in US and internationally, I advise numerous top 100 coinmarketcap coins.
+  - **Links**
+    - https://www.linkedin.com/in/timbukher/
