@@ -115,7 +115,7 @@
     - http://linkedin.com/in/ebru-anik-66769715b
 - James Gold (@James8)
   - **Strengths:** Programming / Blockchain Development / Ohni CEO
-  - **Bio:** 
+  - **Bio:** James is a student studying computer sciences. He has advanced knowledge in over 5 programming languages and basic knowledge in over 10, both front and back end. He is the current CEO of Ohni, a recently launched cryptocurrency.
   - **Links**
 - Tim Bukher (@BukherT)
   - **Strengths:** Multi-National Securities Regulation / Regulatory Advice / Legal Counsel
