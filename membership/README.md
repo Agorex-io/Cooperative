@@ -46,7 +46,7 @@
 	- https://github.com/mikeyb
 - Phillip O. (@Kryptoniq)
   - **Strengths:** Token Listing Submissions
-  - **Bio:** 19, Website developer, knows some PHP/MySQL, HTML, CSS and Solidity. Has startup experience and founder of SporChain.
+  - **Bio:** 19, Website developer, knows some PHP/MySQL, HTML, CSS and Solidity. Has startup experience.
   - **Links**
 - Michael Razoumovitch (@mira)
   - **Strengths:** Architectural Design / Software Development
