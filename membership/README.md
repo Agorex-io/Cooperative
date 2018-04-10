@@ -1,0 +1,124 @@
+# List Of Possible Future Members
+
+- Jonathon Dunford (@BigBrother)
+  - **Strengths:** Business Development / Programming / Marketing / Blockchain Development
+  - **Bio:**
+  - **Links**
+    - https://www.linkedin.com/in/jonathondunford/
+    - https://github.com/jonathonDunford
+- Joona Virtanen (@Riven)
+  - **Strengths:** Community Management / Support
+  - **Bio:**
+  - **Links**
+- Evan Bonsignori (@Evan)
+  - **Strengths:** Web Development / Python Backend / Web3 / Solidity / Machine Learning
+  - **Bio:** Contributor to open source projects and seeker of new technologies. 
+  - **Links**
+    - https://github.com/ebonsignori
+- Marcus Mönnig (@mmhh)
+  - **Strengths:** Dev Ops / Solidity & Blockchain Development / Backend Development
+  - **Bio:** BCS - Been a programmer for 10 years and an Oracle OCM DBA for another 10 years. Just quit my job to work on blockchain projects. Interested in Solidity, blockchain and backend development, Python, Docker, Icinga, DevOps tooling
+  - **Links** TBD
+- Brandon Smith (@thoth)
+  - **Strengths:** Decentralization Maximalist, Nuclear Engineer, Startup Experience, RChain Coop Community Organizer
+  - **Bio:**
+  - **Links**
+- Scott Willeke (@activescott)
+  - **Strengths:** Business & Product Strategy / Programming
+  - **Bio:**
+  - **Links**
+    - https://www.linkedin.com/in/scottwilleke/
+- Edenilson Silva
+  - **Strengths:** Programming
+  - **Bio:**
+  - **Links**
+    - https://www.linkedin.com/in/eedsilva/
+- Simon Kruse (@CryptoSmileee)
+  - **Strengths:** Programming / Community Management / Social Media Management
+  - **Bio:** Community Manager at Bounty0x, Software Developer with a focus on backend and bot programming.  Know Golang, NodeJs, Python and web development techniques like PHP, Angular, Html + CSS
+  - **Links**
+    - https://www.linkedin.com/in/simon-kruse-959287154
+- Mike Boremi (@MikO)
+  - **Strengths:** Programming / Security / Systems Engineering / Wallets
+  - **Bio:** 39yr old technology veteran with a background in Linux systems administration/engineering.  Fell in love with Bitcoin, became a programmer to interact with DLT.  Technical advisor of Ethereum Classic. Focus on security, wallets, utilities, backend development.  Business owner, miner, trader (forex/crypto).  When not being a total nerd you can find me in the forest camping or in the garden.
+  - **Links**
+	- https://www.linkedin.com/in/mikeboremi/
+	- https://github.com/mikeyb
+- Phillip O. (@Kryptoniq)
+  - **Strengths:** Token Listing Submissions
+  - **Bio:** 19, Website developer, knows some PHP/MySQL, HTML, CSS and Solidity. Has startup experience.
+  - **Links**
+- Michael Razoumovitch (@mira)
+  - **Strengths:** Architectural Design / Software Development
+  - **Bio:**
+  - **Links**
+- Benson Tran (@Flatlines)
+  - **Strengths:** Programming / Discord Community Management / Economics
+  - **Bio:**
+  - **Links**
+    - https://www.linkedin.com/in/benson-tran-51a708150/
+- Rohat Sahin (@rowmagnon)
+  - **Strengths:** Community Management / Development
+  - **Bio:** Webdev experience and project management
+  - **Links**
+- Serina Piencak (@SinGoat)
+  - **Strengths:** Journalism / Writing & Editing / Social Media Management
+  - **Bio:** 20yr old journalism student.  Content writing and editing. Forced into the crypto world by a goat, hodl'ing for my future.
+  - **Links**
+- Kirby Ong (@kirbyong)
+  - **Strengths:** Writing / Community Management / Social Media Management
+  - **Bio:**
+  - **Links**
+- Adam Marsden (@Adam)
+  - **Strengths:** CSS Architecture / UI & UX Design
+  - **Bio:**
+  - **Links**
+- Shachindra Kumar (@shachindra)
+  - **Strengths:** Backend Development / Blockchain Development
+  - **Bio:**
+  - **Links**
+    - https://LinkedIn.com/in/Shachindra92
+- Rally Arceno (@Rally)
+  - **Strengths:** Programming / Software Testing
+  - **Bio:**
+  - **Links**
+    - https://www.linkedin.com/in/rally-arceno-8ba83a6
+- Derek Clauson (@Nidusan Glast)
+  - **Strengths:** Writing / Research Assessment / Marketing
+  - **Bio:**
+  - **Links**
+    - https://www.linkedin.com/in/derek-c-567174153/
+- Francois Devillez (@Splinter)
+  - **Strengths:** Negotiations / Business & Legal Expertise / Networking
+  - **Bio:**
+  - **Links**
+    - https://www.linkedin.com/in/francoisdevillez/
+- Vladmir Agaev (@Vlad)
+  - **Strengths:** Programming / Blockchain Development
+  - **Bio:** Known as Vlad Wulf on YouTube
+  - **Links**
+    - https://www.linkedin.com/in/vladimir-a-16334213b/
+- Andreas Achleithner (@Andreas BTC)
+  - **Strengths:** Engineering Background / Business / Marketing / Community Management
+  - **Bio:** Known as BTCBusinessconsult on YouTube
+  - **Links**
+    - https://www.linkedin.com/in/andreas-achleithner/
+- Imran Khawaja (@imrank1)
+  - **Strengths:** Full Stack Development / Machine Learning / Blockchain Development
+  - **Bio:**
+  - **Links**
+    - https://www.linkedin.com/in/imrank1/
+- Ebru Anik (@ebru)
+  - **Strengths:** Law Graduate
+  - **Bio:** 
+  - **Links**
+    - http://linkedin.com/in/ebru-anik-66769715b
+- James Gold (@James8)
+  - **Strengths:** Programming / Blockchain Development / Ohni CEO
+  - **Bio:** James is a student studying computer sciences. He has advanced knowledge in over 5 programming languages and basic knowledge in over 10, both front and back end. He is the current CEO of Ohni, a recently launched cryptocurrency.
+  - **Links**
+- Tim Bukher (@BukherT)
+  - **Strengths:** Multi-National Securities Regulation / Regulatory Advice / Legal Counsel
+  - **Bio:** My strengths are in multi-national securities regulation, I have a fairly high profile in the space both on business and media ends. I can provide business and regulatory strategy advice, I have relationships with various firms that specialize on needed regulatory areas internationally, etc... I've been doing corporate governance for multinational public organizations for the past 10 years. Been a BTC hodler 9+ years. Aside from being on the ground in securities regulatory in US and internationally, I advise numerous top 100 coinmarketcap coins.
+  - **Links**
+    - https://www.linkedin.com/in/timbukher/
