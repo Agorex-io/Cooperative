@@ -32,9 +32,6 @@ We are a group who have worked on a decentralized cryptocurrency exchange before
 ### _How?_
 You can contribute by joining our [Discord server](https://discord.gg/GVuj6UY) and offering your ideas, insights, and advice on how to build a public, open, honest community around a decentralized exchange. You can contribute with your insights on all aspects of a community-run decentralized cryptocurrency exchange. Including technology, business/legal, economics, community building, documentation. And of course, we :heart: pull requests from designers and developers too!
 
-We're currently accepting potential members for our cooperative. 
-We do not have any formal way of joining the coop or a current standard KYC process set up yet, however, we are definitely looking for people who are interested in joining the coop and helping with everything from development to marketing to community management.
-
 **If you're interested in becoming a part of this early stage of the coop, please drop by the #offers-to-help channel in our [Discord server](https://discord.gg/GVuj6UY) and share the following:**
 - Why you'd like to be a part of the Coop that will be formed.
 - What are your strengths?
